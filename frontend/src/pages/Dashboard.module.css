@@ -1,0 +1,12 @@
+.dashboard {
+  padding: 1rem;
+}
+
+.dashboard ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.dashboard li {
+  margin-bottom: 0.5rem;
+}

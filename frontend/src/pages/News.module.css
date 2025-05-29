@@ -1,0 +1,21 @@
+.news {
+  padding: 1rem;
+}
+
+.news ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.news li {
+  margin-bottom: 0.5rem;
+}
+
+.news a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.news a:hover {
+  text-decoration: underline;
+}
